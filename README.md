@@ -13,10 +13,10 @@
 # 📫 Connect With Me
 
 <div align="center">
-<a href="https://linkedin.com/in/fahima bushra" target="_blank">
+<a href="https://www.linkedin.com/in/fahima-bushra-a6392a25a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://fb.com/fahima bushra" target="_blank">
+<a href="https://www.facebook.com/fahima.bushra.9?mibextid=ZbWKwL" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
