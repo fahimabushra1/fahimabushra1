@@ -31,7 +31,7 @@
 - Developed a REST API for CRUD operations and stored all
 data in MongoDB.
 
-### 🌐 Live Site: gloria-jeans-coffee.vercel.app
+### 🌐 Live Site: https://gloria-jeans-coffee-38a6a.web.app/
 ### 💠 Github Front-End: https://github.com/fahimabushra1/gloria-jeans-coffee
 ### 💠 Github Back-End: https://github.com/fahimabushra1/gloria-jeans-server
 
