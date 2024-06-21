@@ -1,4 +1,4 @@
-"<img src="https://github.com/saifeer1019/bg/blob/main/Fahima%20Samsunnahar%20Bushra%20(14).png" alt="Alt text" width="800" height=400 >"
+"<img src="https://github.com/saifeer1019/bg/blob/main/Fahima%20Samsunnahar%20Bushra%20(14).png" alt="Alt text" width="800" height=300 >"
 
 
 <h1 align="center">I'm FAHIMA SAMSUNNAHAR BUSHRA</h1>
